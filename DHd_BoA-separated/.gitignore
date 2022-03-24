@@ -1,0 +1,4 @@
+.idea
+lib/Saxon*
+lib/fop*
+output/

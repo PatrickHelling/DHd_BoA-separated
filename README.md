@@ -1,10 +1,6 @@
 # DHd_BoA-separated
 
-Skripte zur Erstellung einer Abstractsammlung aus TEI kodierten XML-Dateien in PDF:
-- run.sh
-- ./config/config.sh
-- ./lib/tei2pdf/TEIcorpus_producer.xsl
-- ./lib/tei2pdf/xsl-fo-producer.xsl
+Dieses Repositorium enthält Skripte zur Erstellung einzelner PDF-Dateien aus den TEI kodierten XML-Dateien zum Book of Abstracts für DHd-Jahreskonferenzen.
 
 Skripte zur Erstellung einzelner Abstracts aus TEI kodierten XML-Dateien in PDF:
 - separated.sh

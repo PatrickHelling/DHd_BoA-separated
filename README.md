@@ -36,6 +36,6 @@ Der Code fwurde mit FOP 2.3 getestet.
 3. Die einzelnen PDF-Dateien werden in den automatisch generierten Ordner ./outputs geladen
 
 # Zusätzliche Infos
-- Individuelle Anpassungen (insbesondere des Layouts) sind bei Bedarf in ./lib/tei2pdf/xsl-fo-producer-separated.xsl vorzunehmen. 
+- Individuelle Anpassungen (insbesondere des Layouts) sind bei Bedarf in ./lib/tei2pdf/xsl-fo-producer-separated.xsl vorzunehmen 
 - Vorgenommene Anpassungen für die Darstellung der Abstracts aus den verschiedenen Jahrgängen (2016-2022) sind im Code dokumentiert
 - Grundsätzlich bedarf es noch einer Bereinigung des Codes
